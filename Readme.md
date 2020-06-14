@@ -1,5 +1,11 @@
 # PHP Custom Captcha
 
+Custom Captcha class for PHP
+
+![Custom 1](/images/custom-1.png)
+![Custom 2](/images/custom-2.png)
+![Custom 3](/images/custom-3.png)
+
 ## Basic Usage
 
 ```
