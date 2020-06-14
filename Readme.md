@@ -1,6 +1,6 @@
 # PHP Custom Captcha
 
-Custom Captcha class for PHP
+Customize your captcha images.
 
 ![Custom 1](/images/custom-1.png)
 ![Custom 2](/images/custom-2.png)
